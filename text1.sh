@@ -1,2 +1,2 @@
 hello
-echo "hewllo word"
+echo "hello word"
